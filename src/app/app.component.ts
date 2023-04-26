@@ -14,6 +14,7 @@ export class AppComponent implements OnInit, OnChanges {
   }
 
   title = 'multi-language-project';
+  index = 1;
 
   ngOnInit() {
   }
